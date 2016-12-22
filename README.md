@@ -5,7 +5,7 @@ The code describes how to implement an R routine to correct the abundance of pic
 
 
 # Example of use of cyto_plot function (run first the R code below to define the necessary functions)<p> 
-stats_Pro_C6<-cyto_plot("Pro_C6.txt", decades_C6, channel_min_C6, xmin_C6, xmax_C6)<p> 
+stats_Pro_C6<-cyto_plot("Pro_C6.txt", decades_C6, channel_min_C6, xmin_C6, xmax_C6)
 
 # Example of statistics output<p> 
 
