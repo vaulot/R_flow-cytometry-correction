@@ -8,7 +8,7 @@ require(grid)
 # Set the working directory where the files are located 
 setwd ("C:/My Documents/cytometry data/")  
 
-# Define basic parameters
+# Define basic parameters for the Canto and C6
 decades_Canto = 5
 decades_C6 = 7
 channel_min_Canto = 100
